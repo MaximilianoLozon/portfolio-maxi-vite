@@ -16,8 +16,8 @@ const data =[
     id:2,
     imagen:IMG2,
     titulo:'My Self',
-    github:"https://github.com/MaximilianoLozon/Portfolio_maxi_lozon",
-    demo:"https://maximilianolozon.github.io/Portfolio_maxi_lozon/"
+    github:"https://github.com/MaximilianoLozon/portfolio-maxi-vite",
+    demo:"https://maximilianolozon.github.io/portfolio-maxi-vite/"
   },
   {
     id:3,
