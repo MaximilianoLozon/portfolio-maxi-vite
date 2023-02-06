@@ -23,7 +23,7 @@ git commit -m 'deploy'
 # if you are deploying to https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git main
 
-# if you are deploying to https://<USERNAME>.github.io/<REPO>
-# git push -f git@github.com:MaximilianoLozon/portfolio-maxi-vite.git master:gh-pages
+# if you are deploying to https://MaximilianoLozon.github.io/portfolio-maxi-vite
+# git push -f git@github.com:MaximilianoLozon/portfolio-maxi-vite.git main:gh-pages
 
 cd -
