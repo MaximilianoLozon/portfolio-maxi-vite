@@ -15,13 +15,8 @@ const About = () =>{
                 </div>
                 <div className="about__me text">
                     <p>
-                    Soy Maxi, de la patagonia Argentina, adepto a la tecnología, el fútbol, la buena música, el mate, el asado 
-                    y pasar el tiempor con familia y amigos! Mi sueño es poder viajar por todo el mundo y recorrer cada rincón del mismo.
-
-                    Desarrollador, especializandome en front end, en busca de mi primera oportunidad en el mundo it.
-                    Soy una persona que aprende rápido, enfocado y capaz de adaptarme a entornos
-                    cambiantes. Busco aplicar mis conocimientos en el ámbito profesional para contribuir en
-                    su empresa, Siempre destaco por mi compañerismo y compromiso con el trabajo y los grupos.
+                    Hola soy Maxi, de la Patagonia Argentina, adepto a la tecnología, el fútbol, la buena música, el mate, el asado y pasar el tiempo con familia y amigos! Mi sueño es poder viajar por todo el mundo y recorrer cada rincón del mismo. 
+Desarrollador, especializándome en front end, en busca de mi primera oportunidad en el mundo it. Soy una persona que aprende rápido, enfocado y capaz de adaptarme a entornos cambiantes. Busco aplicar mis conocimientos en el ámbito profesional para contribuir en su empresa, Siempre destaco por mi compañerismo y compromiso con el trabajo y los grupos.
                     </p>
                     <a href="#contact" className='btn'>Contact me</a>
                 </div>
