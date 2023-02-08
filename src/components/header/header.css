@@ -58,10 +58,7 @@ header{
         display: none;
     }
     .izq{
-        padding: 50% 26% 50%;
-    }
-    .izq>h5, .izq>h1, .izq > .cta{
-        margin: 0 auto;
+        padding: 50% 60% 50%;
     }
 }
 /* media queries : small*/
@@ -71,5 +68,8 @@ header{
     }
     .header__socials{
         display: none;
+    }
+    .izq{
+        padding: 45% 26% 45%;
     }
 }
