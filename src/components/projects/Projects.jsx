@@ -2,7 +2,7 @@ import React from 'react'
 import './projects.css'
 import IMG1 from '../../assets/herramientas.jpg'
 import IMG2 from '../../assets/habilidades.jpg'
-import IMG3 from '../../assets/background-body-img.jpg'
+import IMG3 from '../../assets/react.svg'
 
 const data =[
   {
@@ -22,9 +22,16 @@ const data =[
   {
     id:3,
     imagen:IMG3,
-    titulo:'Another Project',
-    github:"https://github.com/MaximilianoLozon",
-    demo:"https://maximilianolozon.github.io"
+    titulo:'Contador de clics',
+    github:"https://github.com/MaximilianoLozon/contador-de-clics",
+    demo:"https://maximilianolozon.github.io/contador-de-clics/"
+  },
+  {
+    id:4,
+    imagen:IMG3,
+    titulo:'Calculadora',
+    github:"https://github.com/MaximilianoLozon/calculadora",
+    demo:"https://maximilianolozon.github.io/calculadora/"
   }
   
 ]

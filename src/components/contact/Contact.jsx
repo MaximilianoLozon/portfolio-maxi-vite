@@ -22,7 +22,7 @@ const Contact = () => {
             <AiOutlineWhatsApp className='contact__option-icon'/>
             <h4>Whatsapp</h4>
             <h5>text me</h5>
-            <a href="https://api.whatsapp.com/send?phone=+5492364620580"target={'_blank'}>Send a text</a>
+            <a href="https://api.whatsapp.com/send?phone=+5492364620580" target={'_blank'}>Send a text</a>
           </article>
           <article className='contact__option'>
             <AiFillFacebook className='contact__option-icon'/>
@@ -31,13 +31,6 @@ const Contact = () => {
             <a href="https://m.me/maxi.lozon/"target={'_blank'}>Send a text</a>
           </article>
         </div>
-        {/*end of the contact options*/}
-        <form action="">
-          <input type="text" name='name' placeholder='Your fullname' required />
-          <input type="email" name="email" placeholder='Your email' required />
-          <textarea name='message' rows="7" placeholder='Your message' required></textarea>
-          <button type='submit'className='btn btn-primary'>Send</button>
-        </form>
       </div>
     </section>
   )

@@ -9,8 +9,10 @@
     aspect-ratio: 1/1;
     border-radius: 2rem;
     background: linear-gradient(
-        90deg,
+        135deg,
         transparent,
+        var(--color-primary-variant),
+        var(--color-primary),
         var(--color-primary-variant),
         transparent
     );
@@ -19,15 +21,12 @@
 }
 .about__me-image{
     border-radius: 2rem;
-    overflow: hidden;
-    transform: rotate(10deg);
-    transition: var(--transition);
-}
-.about__me-image:hover{
-    transform: rotate(0);
+    object-fit: cover;
 }
 .about__me:nth-child(2){
     padding: 1.1rem 1.5rem 1rem 1rem;
+    font-size: large;
+    font-weight: 300;
 }
 /* media queries : medium*/
 @media screen and (max-width: 900px) {
