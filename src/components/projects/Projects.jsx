@@ -30,8 +30,8 @@ const data =[
     id:4,
     imagen:IMG3,
     titulo:'Calculadora',
-    github:"https://github.com/MaximilianoLozon/calculadora",
-    demo:"https://maximilianolozon.github.io/calculadora/"
+    github:"https://github.com/MaximilianoLozon/proyecto-calculadora",
+    demo:"https://maximilianolozon.github.io/proyecto-calculadora/"
   }
   
 ]
