@@ -9,40 +9,21 @@
     list-style: none;
     text-decoration: none;
 }
-/* escala para dorado
-    --color-bg:#1a1101;
-    --color-bg-variant:#664300;
-    --color-primary: #efb810;
-    --color-primary-variant: #bf930d;
-    --color-white:#f3ca4c;
-    --color-light: #ffc600;
 
-       *verde matrix*
-       --color-bg:#00060d;
-       --color-bg-variant:#022601;
-       --color-primary:#0dd954;
-       --color-primary-variant:rgb(27,115,2,0.4);
-       --color-white:#e4f2e6;
-       --color-light:rgb(151,242,126,0.6);
-   
-       --transition: all 400ms ease;
-       --container-width-lg: 75%;
-       --container-width-md: 86%;
-       --container-width-sm: 90%;
-*/
-:root{       /* elektra nachios */
-    --color-bg:#4d0000;
-    --color-bg-variant:#820000;
-    --color-primary:#ff0404;
-    --color-primary-variant:#fd4646;
-    --color-white:#ffffff;
-    --color-light:#cf1111;
+:root{ 
+    --color-bg:#030250;
+    --color-bg-variant:#080680;
+    --color-primary: #11bbee;
+    --color-primary-variant: #2b28da;
+    --color-white:#c0c6eb;
+    --color-light: #73d1edb1;
 
     --transition: all 400ms ease;
     --container-width-lg: 75%;
     --container-width-md: 86%;
     --container-width-sm: 90%;
 }
+
 html {
     scroll-behavior: smooth;
 }
